@@ -11,4 +11,4 @@ resources:
 images:
   - name: app
     newName: ghcr.io/hisco/my-radar-team
-    newTag: a20d314
+    newTag: b1c2d0a
